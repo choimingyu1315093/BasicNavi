@@ -7,3 +7,8 @@
     findNavController().navigate(R.id.action_homeFragment_to_secondFragment, bundle)
     
 }
+
+
+https://stackoverflow.com/questions/5151591/android-left-to-right-slide-animation
+
+위 사이트 들어가서 애니메이션 고르면 된다.
